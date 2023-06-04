@@ -13,7 +13,7 @@ To build and run this project, please follow these steps:
 
 3. Run the first part of the code in order to be sure all the required libraries are installed. 
 
-5. Run the web scraping script to collect the restaurant data from "trouvetonresto.be/Bruxelles". The script will store the scraped data in a CSV file for further analysis. The script has been done so that one page at the time is retrieved, therefore you will need to run the entire script. 
+5. Run the web scraping script to collect the restaurant data from "trouvetonresto.be/restaurants/Bruxelles". The script will store the scraped data in a CSV file for further analysis. The script has been done so that one page at the time is retrieved, therefore you will need to run the entire script. 
 
 6. Futhermore, we had to do a lot of data cleaning (This is explained in the Limitations part). That is why you will need to download the csv file in github named "DataRestaurants.csv".
 
@@ -26,7 +26,7 @@ To build and run this project, please follow these steps:
 
 ## Description
 
-This project aims to gather information about restaurants from the "trouvetonresto.be/Bruxelles" website and perform analysis using a machine learning model. The web scraping script collects data such as restaurant names, locations, ratings, average budgets and cuisine types. The collected data is gathered in a csv file and is then used to train a machine learning model that can predict the rating of a restaurant based on various features. 
+This project aims to gather information about restaurants from the "trouvetonresto.be/restaurants/Bruxelles" website and perform analysis using a machine learning model. The web scraping script collects data such as restaurant names, locations, ratings, average budgets and cuisine types. The collected data is gathered in a csv file and is then used to train a machine learning model that can predict the rating of a restaurant based on various features. 
 
 The Jupyter Notebook `restaurant_analysis.ipynb` demonstrates the data preprocessing steps, feature engineering, model training, and evaluation. The notebook also includes visualizations of the data distribution, correlations, and predictive performance of the model.
 
