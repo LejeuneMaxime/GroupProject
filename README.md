@@ -1,4 +1,6 @@
 # GroupProject
+# Data Visualization
+For the Data Visualization, we decided to show the impact of two important variables on the average rating. These variables are: the average budget and the type of cuisine the restaurant offers. Thanks to these graphs, we could see that restaurants with an average budget on the expensive side have a higher rating and restaurants porposing cuisine of the world or romanian cuisine are more likely to be rated better than those with another type of cuisine.
 # Restaurant Data Web Scraping and Analysis
 
 This project involves scraping data about restaurants from the website "trouvetonresto.be/bruxelles", building a machine learning model to analyze the data, and creating visualizations based on the results. The objective is to help restaurants owners to have an idea about what impacts their restaurant rating in Bruxelles. 
