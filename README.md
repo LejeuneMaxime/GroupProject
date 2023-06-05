@@ -13,16 +13,16 @@ To build and run this project, please follow these steps:
 
 3. Run the first part of the code in order to be sure all the required libraries are installed. 
 
-5. Run the web scraping script to collect the restaurant data from "trouvetonresto.be/restaurants/Bruxelles". The script will store the scraped data in a CSV file for further analysis. The script has been done so that one page at the time is retrieved, therefore you will need to run the entire script. 
+4. Run the web scraping script to collect the restaurant data from "trouvetonresto.be/restaurants/Bruxelles". The script will store the scraped data in a CSV file for further analysis. The script has been done so that one page at the time is retrieved, therefore you will need to run the entire script. 
 
-6. Futhermore, we had to do a lot of data cleaning (This is explained in the Limitations part). That is why you will need to download the csv file in github named "DataRestaurants.csv".
+5. Futhermore, we had to do a lot of data cleaning (This is explained in the Limitations part). That is why you will need to download the csv file in github named "DataRestaurants.csv".
 
-7. Once you have the correct csv file, you can proceed to the machine learning model.
+6. Once you have the correct csv file, you can proceed to the machine learning model.
 
 - Open the Jupyter Notebook `restaurant_analysis.ipynb`.
 - Follow the instructions and run the code cells to preprocess the data, build the machine learning model, and analyze the results.
 
-8. After running the notebook, you will find the generated visualizations in the output cells. These visualizations include bar charts, scatter plots, and heatmaps to provide insights into the restaurant data.
+7. After running the notebook, you will find the generated visualizations in the output cells. These visualizations include bar charts, scatter plots, and heatmaps to provide insights into the restaurant data.
 
 ## Description
 
