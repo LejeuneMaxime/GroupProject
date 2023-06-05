@@ -3,6 +3,8 @@
 
 This project involves scraping data about restaurants from the website "trouvetonresto.be/bruxelles", building a machine learning model to analyze the data, and creating visualizations based on the results. The objective is to help restaurants owners to have an idea about what impacts their restaurant rating in Bruxelles. 
 
+In this project, we planned to train a model to predict users’ rating of a business. The motivation includes that if we can predict how a user is going to rate a business, then we can recommend the business that the user is more likely to rate higher than the others.
+
 ## Instructions
 
 To build and run this project, please follow these steps:
