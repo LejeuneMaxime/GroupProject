@@ -21,7 +21,7 @@ To build and run this project, please follow these steps:
 
 6. Once you have the correct csv file, you can proceed to the machine learning models (there are a linear one and a decision tree).
 
-- Open the Jupyter Notebook `restaurant_analysis.ipynb`.
+- Open the Jupyter Notebook `linearmodèle (1).ipynb`.
 - Follow the instructions and run the code cells to preprocess the data, build the machine learning model, and analyze the results.
 
 7. After running the notebook, you will find the generated visualizations in the output cells. These visualizations include bar charts, scatter plots, and heatmaps to provide insights into the restaurant data.
