@@ -44,7 +44,7 @@ Firstly we had to clean all the non avaible and empty data. Then, prepare the tr
 
 ## Results
 
-This is the tricky part here. We succeded to make the models but the results are quite strange. we wanted to check the MSE, the MAE, the R-Squared and the adjusted R-Squared. The MSE value is 0.4464912499771423, indicating that, on average, the squared difference between the predicted and actual values is relatively low (wich is pretty good) but the mae is higher (0.5000177500168457). 
+This is the tricky part here. We succeded to make the models but the results are quite strange. we wanted to check the MSE, the MAE, the R-Squared. The MSE value is 0.4464912499771423, indicating that, on average, the squared difference between the predicted and actual values is relatively low (wich is pretty good) but the mae is higher (0.5000177500168457). 
 Depending on the specific dataset and the distribution of errors, there can be situations where the squared errors in MSE are relatively smaller compared to the absolute errors in MAE. Plus,the R2 value is -0.05459258622687391, indicating that the model explains a small proportion of the variance and performs poorly in capturing the relationships between the features and the target. 
 That just indicates that the model fails to capture efficienly the relationships between the data. 
 
