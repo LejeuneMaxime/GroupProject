@@ -51,7 +51,3 @@ We thought about what could inhance our metrics and come to a solution. We discu
 We came with hypothesis about the results. The subjectivity of the rating is very difficult to interpret since that depends on some people value and personnal experience. Plus, we did not have the number of votes, the results could be totally biased by the lack of votes (one perso with one bad experience or good).
 We tried to compare with other similar projects with larger datasets (they just provide MSE). They did it with Baseline (1.40981598434),Linear Regression(0.79202671108), Random Forest Regression (0.63987291881) and Latent Factor Model (1.26561688673). You could find it here (Yu, Mengqi, Meng Xue, and Wenjia Ouyang. ‘Restaurants Review Star Prediction for Yelp Dataset’, n.d.). Globally tehy got worst predictive power than us, tha is not a lot but confort us a bit with the lack of consistent of a model with restaurant's ratings.
 
-
-## Deployed Application
-
-To access the deployed application and explore the visualizations, please visit the following link: [Restaurant Data Analysis](https://example.com)
