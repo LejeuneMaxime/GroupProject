@@ -1,0 +1,484 @@
+Name,Rating,Type,Address,Average budget,Maximum capacity
+Le Chalet De La Forêt,4.25,Français,                1180 Uccle ,180,Not Available
+La Buvette,4.3,Français,                1060 Saint-Gilles ,58,Not Available
+Fanny Thai,4.25,Thaïlandais,                1000 Bruxelles,24,Not Available
+Brinz'L,4.166666667,Français,                1180 Uccle ,70,Not Available
+Gou,4.166666667,Français,                1150 Woluwe-Saint-Pierre ,35,Not Available
+Anata,4.125,Japonais,                1000 Bruxelles,30,Not Available
+La Cigale,4,Français,                1180 Uccle ,39,Not Available
+Un Goût De Chez Nous,4,Belge,                1140 Evere ,30,Not Available
+Vert De Rouge,4,Asiatique,                1170 Watermael-Boitsfort ,25,Not Available
+Chez Bruno,4,Italien,                1020 Laeken ,35,Not Available
+La Cantina,4,Brésilien,                1000 Bruxelles,25,Not Available
+Le Dillens,4,Européen,                1060 Saint-Gilles ,24,Not Available
+Sésame,4,Français,                1160 Auderghem ,53,Not Available
+Paya Thai,4,Thaïlandais,                1083 Ganshoren ,23,Not Available
+Quincaillerie (la),4,Français,                1050 Ixelles ,32,Not Available
+Poz,4,Français,                1060 Saint-Gilles ,18,Not Available
+Il Carpaccio,4,Italien,                1180 Uccle ,30,Not Available
+L'Huitrière,4,Français,                1000 Bruxelles,40,Not Available
+Cheese Cake Cafe,4,Européen,                1000 Bruxelles,35,Not Available
+Dionysos,4,Belge,                1160 Auderghem ,25,Not Available
+Les Deux Frères,4,Français,                1180 Uccle ,35,Not Available
+Caffè Al Dente,4,Italien,                1180 Uccle ,35,Not Available
+Poivre Et Sel,4,Français,                1050 Ixelles ,32,Not Available
+Knees To Chin,4,Asiatique,                1000 Bruxelles,15,Not Available
+Meishi,4,Asiatique,                1000 Bruxelles,30,Not Available
+Gourmandises,4,Français,                1081 Koekelberg ,Not Available,Not Available
+La Bastoche,4,Italien,                1050 Bruxelles,22,Not Available
+Lulu Home Interior & Café,4,Français,                1050 Bruxelles,8,Not Available
+Cup 28,4,Français,                1000 Bruxelles,15,Not Available
+Mezze Polis,4,Grec,                1080 Molenbeek-Saint-Jean ,9,Not Available
+Pampas Brussel,4,Asiatique,                1000 Bruxelles,43,Not Available
+Chez Augusta,4,Européen,                1050 Ixelles ,22,Not Available
+Le Printemps Fleuri,4,Chinois,                1180 Uccle ,Not Available,Not Available
+Ellis Gourmet Burger,4,Américain,                1000 Bruxelles,30,Not Available
+"La Fabrique, Ixelles",4,Européen,                1050 Ixelles ,38,Not Available
+Les Super Filles Du Tram,4,Américain,                1050 Ixelles ,26,Not Available
+Food Factory,4,Français,                1000 Bruxelles,Not Available,Not Available
+Fait Maison,4,Belge,                1000 Bruxelles,10,Not Available
+"Sushi Shop, Woluwe-st-pierre",4,Japonais,                1150 Woluwe-Saint-Pierre ,29,Not Available
+Walkin'Thai,4,Thaïlandais,                1050 Ixelles ,17,Not Available
+"Le Pain Du Châtelain, Ixelles",4,Européen,                1050 Ixelles ,22,Not Available
+BRUGMANN,3.75,Asiatique,                1190 Forest ,38,Not Available
+Le Coq En Pâte,3.833333333,Italien,                1200 Woluwe-Saint-Lambert ,40,Not Available
+Amadeo,3.625,Français,                1000 Bruxelles,Not Available,Not Available
+Chez Léon 1893,3.5,Belge,                1000 Bruxelles,25,Not Available
+Schievelavabo Jourdan,3.5,Belge,                1040 Etterbeek ,25,Not Available
+Chutney's,3.5,Français,                1000 Bruxelles,25,Not Available
+French Kiss,3.5,Belge,                1090 Jette ,32,Not Available
+Makisu,3.5,Japonais,                1000 Bruxelles,22,Not Available
+"After Time, Ixelles",3.5,Français,                1050 Ixelles ,14,Not Available
+Hector Chicken,3.5,Français,                1050 Ixelles ,16,Not Available
+Kokob,3.5,Africain,                1000 Bruxelles,22,Not Available
+"La Mami, Saint-gilles",3.5,Français,                1060 Saint-Gilles ,12,Not Available
+Tarte Julie,3.5,Français,                1000 Bruxelles,10,Not Available
+La Manufacture,3.5,Belge,                1000 Bruxelles,34,Not Available
+Chez Willy,3.5,Français,                1000 Bruxelles,Not Available,Not Available
+Beli,3.5,Libanais,                1000 Bruxelles,26,Not Available
+Exki,3.5,Français,                1000 Bruxelles,9,Not Available
+Kabuki,3.333333333,Japonais,                1000 Bruxelles,26,Not Available
+Le Chalet De La Forêt,4.25,Français,                1180 Uccle ,180,Not Available
+La Buvette,4.3,Français,                1060 Saint-Gilles ,58,Not Available
+Fanny Thai,4.25,Thaïlandais,                1000 Bruxelles,24,Not Available
+Brinz'L,4.166666667,Français,                1180 Uccle ,70,Not Available
+Gou,4.166666667,Français,                1150 Woluwe-Saint-Pierre ,35,Not Available
+Anata,4.125,Japonais,                1000 Bruxelles,30,Not Available
+La Cigale,4,Français,                1180 Uccle ,39,Not Available
+Un Goût De Chez Nous,4,Belge,                1140 Evere ,30,Not Available
+Vert De Rouge,4,Asiatique,                1170 Watermael-Boitsfort ,25,Not Available
+Chez Bruno,4,Italien,                1020 Laeken ,35,Not Available
+La Cantina,4,Brésilien,                1000 Bruxelles,25,Not Available
+Le Dillens,4,Européen,                1060 Saint-Gilles ,24,Not Available
+Sésame,4,Français,                1160 Auderghem ,53,Not Available
+Paya Thai,4,Thaïlandais,                1083 Ganshoren ,23,Not Available
+Quincaillerie (la),4,Français,                1050 Ixelles ,32,Not Available
+Poz,4,Français,                1060 Saint-Gilles ,18,Not Available
+Il Carpaccio,4,Italien,                1180 Uccle ,30,Not Available
+L'Huitrière,4,Français,                1000 Bruxelles,40,Not Available
+Cheese Cake Cafe,4,Européen,                1000 Bruxelles,35,Not Available
+Dionysos,4,Belge,                1160 Auderghem ,25,Not Available
+Les Deux Frères,4,Français,                1180 Uccle ,35,Not Available
+Caffè Al Dente,4,Italien,                1180 Uccle ,35,Not Available
+Poivre Et Sel,4,Français,                1050 Ixelles ,32,Not Available
+Knees To Chin,4,Asiatique,                1000 Bruxelles,15,Not Available
+Meishi,4,Asiatique,                1000 Bruxelles,30,Not Available
+Gourmandises,4,Français,                1081 Koekelberg ,Not Available,Not Available
+La Bastoche,4,Italien,                1050 Bruxelles,22,Not Available
+Lulu Home Interior & Café,4,Français,                1050 Bruxelles,8,Not Available
+Cup 28,4,Français,                1000 Bruxelles,15,Not Available
+Mezze Polis,4,Grec,                1080 Molenbeek-Saint-Jean ,9,Not Available
+Pampas Brussel,4,Asiatique,                1000 Bruxelles,43,Not Available
+Chez Augusta,4,Européen,                1050 Ixelles ,22,Not Available
+Le Printemps Fleuri,4,Chinois,                1180 Uccle ,Not Available,Not Available
+Ellis Gourmet Burger,4,Américain,                1000 Bruxelles,30,Not Available
+"La Fabrique, Ixelles",4,Européen,                1050 Ixelles ,38,Not Available
+Les Super Filles Du Tram,4,Américain,                1050 Ixelles ,26,Not Available
+Food Factory,4,Français,                1000 Bruxelles,Not Available,Not Available
+Fait Maison,4,Belge,                1000 Bruxelles,10,Not Available
+"Sushi Shop, Woluwe-st-pierre",4,Japonais,                1150 Woluwe-Saint-Pierre ,29,Not Available
+Walkin'Thai,4,Thaïlandais,                1050 Ixelles ,17,Not Available
+"Le Pain Du Châtelain, Ixelles",4,Européen,                1050 Ixelles ,22,Not Available
+BRUGMANN,3.75,Asiatique,                1190 Forest ,38,Not Available
+Le Coq En Pâte,3.833333333,Italien,                1200 Woluwe-Saint-Lambert ,40,Not Available
+Amadeo,3.625,Français,                1000 Bruxelles,Not Available,Not Available
+Chez Léon 1893,3.5,Belge,                1000 Bruxelles,25,Not Available
+Schievelavabo Jourdan,3.5,Belge,                1040 Etterbeek ,25,Not Available
+Chutney's,3.5,Français,                1000 Bruxelles,25,Not Available
+French Kiss,3.5,Belge,                1090 Jette ,32,Not Available
+Makisu,3.5,Japonais,                1000 Bruxelles,22,Not Available
+"After Time, Ixelles",3.5,Français,                1050 Ixelles ,14,Not Available
+Hector Chicken,3.5,Français,                1050 Ixelles ,16,Not Available
+Kokob,3.5,Africain,                1000 Bruxelles,22,Not Available
+"La Mami, Saint-gilles",3.5,Français,                1060 Saint-Gilles ,12,Not Available
+Tarte Julie,3.5,Français,                1000 Bruxelles,10,Not Available
+La Manufacture,3.5,Belge,                1000 Bruxelles,34,Not Available
+Chez Willy,3.5,Français,                1000 Bruxelles,Not Available,Not Available
+Beli,3.5,Libanais,                1000 Bruxelles,26,Not Available
+Exki,3.5,Français,                1000 Bruxelles,9,Not Available
+Kabuki,3.333333333,Japonais,                1000 Bruxelles,26,Not Available
+Pizza Saco,3,Italien,                1030 Bruxelles,25,Not Available
+Makisu,3,Français,                1000 Bruxelles,17,Not Available
+Meli Mêly,3,Coréen,                1030 Schaerbeek ,Not Available,Not Available
+Brussels Grill,3,Français,                1000 Bruxelles,28,Not Available
+Oficina,3,Français,                1000 Bruxelles,18,Not Available
+Drug Opéra,3,Belge,                1000 Bruxelles,25,Not Available
+Midi Station,3,Belge,                1060 Saint-Gilles ,35,Not Available
+"Bam's Resto Bistro, Watermael-boitsfort",2.25,Français,                1170 Watermael-Boitsfort ,35,Not Available
+Jardin De Pékin,2,Chinois,                1150 Woluwe-Saint-Pierre ,26,Not Available
+Mcdonald's,2,Américain,                1000 Bruxelles,11,Not Available
+Il Vespino,1,Belge,                1170 Watermael-Boitsfort ,30,Not Available
+Pachino Rosso,1,Italien,                1180 Uccle ,24,Not Available
+Sushiline,1,Japonais,                1020 Laeken ,18,Not Available
+Ninja House,1,Japonais,                1000 Bruxelles,30,Not Available
+Maru,0.5,Asiatique,                1050 Ixelles ,32,Not Available
+"Bel Mundo, Saint-jans-molenbeek",0.5,Français,                1080 Molenbeek-Saint-Jean ,28,Not Available
+Los Ponchos,Not available,Argentin,                1060 Saint-Gilles ,30,Not Available
+Lou Ferri,"4,5",Français,                1180 Uccle ,45,Not Available
+Ozawa,4,Asiatique,                1000 Bruxelles,25,Not Available
+Le Zinneke,4,Belge,                1030 Schaerbeek ,30,Not Available
+My Madou,4,Belge,                1210 Bruxelles,30,Not Available
+Les Bains,Not available,Français,                1060 Saint-Gilles ,50,Not Available
+Flylounge,5,Belge,                1000 Bruxelles,89,Not Available
+Aux délices de fes,Not available,Marocain,                1090 Jette ,15,Not Available
+La Sqala,Not available,Marocain,                1180 Uccle ,Not Available,Not Available
+Toucan Sur Mer,4,Belge,                1050 Ixelles ,50,Not Available
+De Bruxelles Et d'Ailleurs,4,Du Monde,                1000 Bruxelles,30,Not Available
+Palasi Latino,4,Sud-américain,                1030 Bruxelles,30,Not Available
+Le Restaurant De Rob,4,Français,                1150 Woluwe-Saint-Pierre ,25,Not Available
+Le Paon Royal,3.5,Belge,                1000 Bruxelles,25,Not Available
+l'auberg'in,4.5,Français,                1150 Woluwe-Saint-Pierre ,50,Not Available
+Horia - Oriental Natural Eatery,4.5,Marocain,                1000 Bruxelles,20,Not Available
+Feux De Bengale,4,Indien,                1000 Bruxelles,25,Not Available
+L'Arrière Pays,4,Belge,                1000 Bruxelles,25,Not Available
+La Terrasse De l'Hippodrome,Not available,Français,                1180 Uccle ,35,Not Available
+Le Saint-hubert's,4,Belge,                1030 Schaerbeek ,35,Not Available
+Vincent,3.5,Belge,                1160 Bruxelles,45,Not Available
+Au Petit Suisse,4.5,Suisse,                1180 Uccle ,34,Not Available
+Al Peperoncino,4.5,Français,                1160 Auderghem ,25,Not Available
+Eden (l'),3.5,Grec,                1030 Schaerbeek ,20,Not Available
+Les Deux Maisons,4.5,Français,                1150 Woluwe-Saint-Pierre ,45,Not Available
+Les 4 Jeudis,4.5,Du Monde,                1210 Saint-Josse-ten-Noode ,16,Not Available
+Les Brigittines,4.5,Belge,                1000 Bruxelles,55,Not Available
+Harold,4,Français,                1180 Uccle ,38,Not Available
+Abrussel,Not available,Belge,                1000 Bruxelles,25,Not Available
+La Pergola,4.5,Belge,                1020 Laeken ,45,Not Available
+Le Crabe Fantôme,3.5,Français,                1170 Watermael-Boitsfort ,37,Not Available
+"Au Relais, Schaerbeek",3.5,Belge,                1030 Schaerbeek ,30,Not Available
+Ilili,4,Méditerranéen,                1000 Bruxelles,25,Not Available
+Dynastie,4,Français,                1020 Laeken ,30,Not Available
+Les Filles De Papa,3.5,Français,                1170 Watermael-Boitsfort ,35,Not Available
+Sole Di Napoli,4,Italien,                1130 Haren ,30,Not Available
+86 Avenue Boite à Pates,4.5,Français,                1140 Evere ,15,Not Available
+Beyrouth Palace,4,Libanais,                1030 Schaerbeek ,22,Not Available
+Toucan,4,Français,                1050 Ixelles ,30,Not Available
+Le Fou Chantant,2.5,Français,                1180 Uccle ,35,Not Available
+L'Atelier De La Truffe Noire,4,Européen,                1050 Bruxelles,50,Not Available
+Cafe De l'Opera,3.5,Belge,                1000 Bruxelles,40,Not Available
+Stella d'Italia,Not available,Français,                1030 Schaerbeek ,30,Not Available
+Le Bugatti,4.5,Belge,                1000 Bruxelles,25,Not Available
+Jules Et Charles,3.5,Italien,                1150 Woluwe-Saint-Pierre ,40,Not Available
+Belga Queen,4,Belge,                1000 Bruxelles,50,Not Available
+Napoli Da Leonardo,4,Français,                1030 Schaerbeek ,25,Not Available
+Ciccio-bello,3,Italien,                1170 Watermael-Boitsfort ,25,Not Available
+Le Cirio,4,Belge,                1000 Bruxelles,20,Not Available
+Au Grand Forestier,4,Belge,                1170 Watermael-Boitsfort ,40,Not Available
+Ah non peut-être,4.5,Belge,                1000 Bruxelles,20,Not Available
+Shake Hands,3.5,Belge,                1150 Woluwe-Saint-Pierre ,35,Not Available
+Charlu,4,Français,                1180 Uccle ,30,Not Available
+Big Boss,Not available,Belge,                1120 Neder-over-Heembeek ,30,Not Available
+Au Vieux Spijtigen Duivel,4,Belge,                1180 Uccle ,25,Not Available
+Casa Tua,4,Italien,                1180 Uccle ,25,Not Available
+Loft Brussels,4,Américain,                1000 Bruxelles,35,Not Available
+MADAGASIKARA,4,Malgache,                1000 Bruxelles,41,Not Available
+L'Aquarelle,4,Français,                1020 Laeken ,20,Not Available
+Genco,4.5,Italien,                1000 Bruxelles,40,Not Available
+Le Medicis,4.5,Français,                1150 Woluwe-Saint-Pierre ,55,Not Available
+Frederiksborg,3.5,Belge,                1083 Ganshoren ,25,Not Available
+Le Grillardin,4.5,Français,                1180 Uccle ,30,Not Available
+"La Folie Grecque, Woluwe-st-pierre",4.5,Grec,                1150 Woluwe-Saint-Pierre ,25,Not Available
+Al Barmaki,4,Libanais,                1000 Bruxelles,40,Not Available
+Le Chat-rabiat,4,Belge,                1180 Uccle ,25,Not Available
+La Véraison,3.5,Espagnol,                1170 Watermael-Boitsfort ,45,Not Available
+Miladiou,3.5,Belge,                1170 Watermael-Boitsfort ,25,Not Available
+Le Peyrac,4.5,Italien,                1030 Schaerbeek ,21,Not Available
+t Misverstand,3.5,Belge,                1180 Uccle ,35,Not Available
+Domu Mia,4.5,Italien,                1180 Uccle ,30,Not Available
+Julien Et Les Hotes,Not available,Français,                1160 Auderghem ,30,Not Available
+Le Parvis,4,Belge,                1180 Uccle ,35,Not Available
+Au Vieux Saint Martin,4,Belge,                1000 Bruxelles,40,Not Available
+Chaud Devant,4.5,Français,                1150 Woluwe-Saint-Pierre ,30,Not Available
+Au Savoy,4,Belge,                1050 Ixelles ,40,Not Available
+Moonfood,5,Du Monde,                1000 Bruxelles,12,Not Available
+Le Beau Rivage,4.5,Belge,                1020 Laeken ,25,Not Available
+Authentica,4.5,Grec,                1180 Uccle ,35,Not Available
+"Holy Bagels, Ixelles",4.5,Américain,                1050 Ixelles ,10,Not Available
+Lola,4,Belge,                1000 Bruxelles,50,Not Available
+La Fantaisie,Not available,Français,                1030 Bruxelles,35,Not Available
+Le Chevalier de Lascombes,4.5,Français,                1180 Uccle ,40,Not Available
+"La Tavola Calda, Auderghem",4,Italien,                1160 Auderghem ,15,Not Available
+Loggia Dei Cavalieri,4.5,Italien,                1180 Uccle ,35,Not Available
+La Trinacria,3.5,Italien,                1200 Woluwe-Saint-Lambert ,30,Not Available
+Comocomo,4,Espagnol,                1000 Bruxelles,19,Not Available
+Il Giardino,3.5,Italien,                1180 Uccle ,30,Not Available
+Blue Elephant,4,Asiatique,                1180 Uccle ,50,Not Available
+Gaster Châtelain,4.5,Français,                1050 Ixelles ,25,Not Available
+Tontons,3.5,Belge,                1180 Uccle ,25,Not Available
+Au Repos Des Chasseurs,3,Français,                1170 Watermael-Boitsfort ,35,Not Available
+Le Briefing,4,Belge,                1160 Auderghem ,25,Not Available
+La Riviera,4,Français,                1000 Bruxelles,21,Not Available
+Le Second Degré,5,Italien,                1000 Bruxelles,40,Not Available
+Agora,4.5,Italien,                1000 Bruxelles,21,Not Available
+Le Vignoble,3.5,Français,                1150 Woluwe-Saint-Pierre ,45,Not Available
+Kumquat,4,Thaïlandais,                1000 Bruxelles,30,Not Available
+Todt's Café,4,Belge,                1000 Bruxelles,30,Not Available
+Le P'Tea Lunch,4.5,Européen,                1000 Bruxelles,15,Not Available
+Pulcinella,4,Italien,                1180 Uccle ,25,Not Available
+L'Arrosoir,3.5,Français,                1160 Auderghem ,30,Not Available
+Taphyra,5,Français,                1000 Bruxelles,6,Not Available
+Le New Challenge,4.5,Français,                1140 Evere ,30,Not Available
+La Bottega,4.5,Belge,                1000 Bruxelles,22,Not Available
+Chez Fleur,3.5,Asiatique,                1050 Ixelles ,35,Not Available
+Bier Circus (le),4,Belge,                1000 Bruxelles,25,Not Available
+Cospaïa,Not available,Belge,                1050 Ixelles ,50,Not Available
+Le Cercle Des Voyageurs,4,Du Monde,                1000 Bruxelles,35,Not Available
+Solito Posto,4,Italien,                1000 Bruxelles,30,Not Available
+Ce Soir On Dîne à Marrakech,4,Marocain,                1180 Uccle ,35,Not Available
+Psylophone,4,Belge,                1170 Bruxelles,27,Not Available
+Pizzeria Koçak,4,Turc,                1030 Schaerbeek ,16,Not Available
+Le Jardin Des Merles,4,Belge,                1180 Uccle ,20,Not Available
+Les Petits Bouchons,4.5,Français,                1180 Uccle ,45,Not Available
+La Soeur Du Patron,3.5,Français,                1160 Auderghem ,30,Not Available
+Delphes,4,Grec,                1200 Woluwe-Saint-Lambert ,Not Available,Not Available
+Autre Chose,4,Belge,                1030 Schaerbeek ,35,Not Available
+Le Passage,4.5,Français,                1180 Uccle ,75,Not Available
+Le Salvarino,3,Italien,                1030 Schaerbeek ,30,Not Available
+Le Mangeoire Maison Gourmande,5,Européen,                1000 Bruxelles,25,Not Available
+Le Petit Pont,5,Français,                1180 Uccle ,35,Not Available
+La Selva,4,Belge,                1030 Schaerbeek ,25,Not Available
+La Cantonnaise,4.5,Chinois,                1050 Ixelles ,12,Not Available
+Spicy Grill,3.5,Indien,                1000 Bruxelles,25,Not Available
+Le Villance,3.5,Français,                1160 Auderghem ,35,Not Available
+Wall Street,Not available,Européen,                1040 Etterbeek ,25,Not Available
+Charlotte,4,Belge,                1180 Uccle ,30,Not Available
+La Chaloupe d'Or,3.5,Belge,                1000 Bruxelles,35,Not Available
+Bouchery D,4.5,Français,                1180 Uccle ,80,Not Available
+La Dynastie Chinoise,3,Chinois,                1000 Bruxelles,Not Available,Not Available
+Chao Chow City,2.5,Chinois,                1000 Bruxelles,25,Not Available
+Atlantide (l'),4,Grec,                1000 Bruxelles,35,Not Available
+O-live,3.5,Méditerranéen,                1170 Watermael-Boitsfort ,20,Not Available
+Comme Chez Fleur,4,Asiatique,                1180 Uccle ,35,Not Available
+Le Cabestan,3.5,Belge,                1180 Bruxelles,15,Not Available
+Monticelli,4,Italien,                1180 Uccle ,40,Not Available
+Paradise Of India,3.5,Indien,                1140 Evere ,25,Not Available
+Zorba,4,Grec,                1150 Woluwe-Saint-Pierre ,30,Not Available
+Le Grand Duc,4.5,Français,                1150 Woluwe-Saint-Pierre ,25,Not Available
+Xu Ji,3.5,Chinois,                1000 Bruxelles,19,Not Available
+Coquum,4.5,Français,                1150 Woluwe-Saint-Pierre ,Not Available,Not Available
+Olympiade,4,Grec,                1082 Berchem-Sainte-Agathe ,30,Not Available
+La Botte,4.5,Italien,                1160 Auderghem ,33,Not Available
+"Loulou Brussels, Schaerbeek",3.5,Français,                1030 Schaerbeek ,30,Not Available
+Shao Shan,3.5,Chinois,                1000 Bruxelles,20,Not Available
+La Table Food And Games,3.5,Du Monde,                1000 Bruxelles,15,Not Available
+Les Caprices d'Harmony,4.5,Belge,                1030 Schaerbeek ,30,Not Available
+Den Talurelekker,3.5,Belge,                1000 Bruxelles,25,Not Available
+Olympia (restaurant),4.5,Grec,                1020 Laeken ,30,Not Available
+Maison Du Dragon,3,Chinois,                1000 Bruxelles,25,Not Available
+Les Frères Romano,4,Français,                1180 Uccle ,40,Not Available
+Le Belvédère,4,Belge,                1150 Woluwe-Saint-Pierre ,25,Not Available
+Athenes,4,Grec,                1000 Bruxelles,15,Not Available
+Le Docteur,4,Français,                1210 Saint-Josse-ten-Noode ,15,Not Available
+Haricot Magique - Café Poussette,4.4,Français,                1050 Ixelles ,Not Available,Not Available
+Amore & Fantasia,3,Italien,                1160 Auderghem ,18,Not Available
+Le Titanic,3.5,Belge,                1000 Bruxelles,30,Not Available
+Foro Romano,4,Italien,                1000 Bruxelles,30,Not Available
+La Cueva De Castilla,4,Espagnol,                1030 Schaerbeek ,50,Not Available
+Via Roma,3.5,Italien,                1170 Watermael-Boitsfort ,30,Not Available
+Manola,4,Asiatique,                1000 Bruxelles,14,Not Available
+The Phénix,4.5,Français,                1030 Schaerbeek ,30,Not Available
+North Express,3,Belge,                1030 Bruxelles,25,Not Available
+Phenicien House,4,Libanais,                1150 Woluwe-Saint-Pierre ,28,Not Available
+Le Jardin De F'Oli,Not available,Français,                1170 Watermael-Boitsfort ,25,Not Available
+"La Nuova Piazza, Schaerbeek",3.5,Italien,                1030 Schaerbeek ,25,Not Available
+Baraka't Restaurant,4,Italien,                1000 Bruxelles,18,Not Available
+Les Rives Du Gange,3.5,Indien,                1170 Watermael-Boitsfort ,30,Not Available
+"Le Faubourg Saint-antoine, Schaerbeek",4.5,Français,                1030 Schaerbeek ,30,Not Available
+L'Avant-première,4,Belge,                1160 Auderghem ,28,Not Available
+Citron Vert,4,Asiatique,                1000 Bruxelles,23,Not Available
+Bouillon Bruxelles,4,Belge,                1000 Bruxelles,Not Available,Not Available
+La Tricoterie,3.5,Français,                1060 Saint-Gilles ,Not Available,Not Available
+Art Club,4.5,Français,                1000 Bruxelles,Not Available,Not Available
+Le Basilic - Cabaret Resto,3.5,Français,                1081 Koekelberg ,Not Available,Not Available
+Drina,3.5,Slave,                1170 Watermael-Boitsfort ,15,Not Available
+Whitlock Cafe,4,Français,                1200 Woluwe-Saint-Lambert ,30,Not Available
+Dolma,4,Européen,                1000 Bruxelles,Not Available,Not Available
+Volle Gas,4,Belge,                1050 Ixelles ,25,Not Available
+Rale-bol,3.5,Chinois,                1050 Bruxelles,22,Not Available
+La Grainerie,4,Du Monde,                1050 Bruxelles,Not Available,Not Available
+Le Marylin's,4.5,Français,                1000 Bruxelles,Not Available,Not Available
+Aux Delices De Chine,4.5,Chinois,                1040 Bruxelles,15,Not Available
+Chez Mauricette,4,Français,                1040 Bruxelles,12,Not Available
+Egnatia,2.5,Grec,                1000 Bruxelles,18,Not Available
+The Lodge,3.5,Belge,                1170 Watermael-Boitsfort ,35,Not Available
+Kabuki,3.5,Japonais,                1000 Bruxelles,25,Not Available
+Anata,3,Japonais,                1000 Bruxelles,15,Not Available
+Habesha Village,4.5,Éthiopien,                1000 Bruxelles,35,Not Available
+Le Monde Est Petit,4,Français,                1040 Etterbeek ,60,Not Available
+Chez Valerio,4,Italien,                1050 Ixelles ,18.5,Not Available
+Vamos,3.5,Espagnol,                1000 Bruxelles,15,Not Available
+Manola 2,2.5,Asiatique,                1210 Saint-Josse-ten-Noode ,33,Not Available
+La Maison du Cygne,3.5,Français,                1000 Bruxelles,39,Not Available
+La Bocca,4,Italien,                1020 Laeken ,Not Available,Not Available
+Sugito Prestige 'The Bali Kitchen',2,Indonésien,                1000 Bruxelles,16,Not Available
+The Good Friend,1,Chinois,                1090 Jette ,15,Not Available
+Houtsiplou,4,Belge,                1000 Bruxelles,16,Not Available
+Wine In The City,4.5,Français,                1090 Jette ,67,Not Available
+Kamo,4.5,Japonais,                1050 Ixelles ,Not Available,Not Available
+La Villa Emily,4.5,Belge,                1000 Bruxelles,Not Available,Not Available
+ECCETERA,4,Italien,                1040 Etterbeek ,Not Available,Not Available
+la luna di venezia,3,Italien,                1000 Bruxelles,Not Available,Not Available
+Da Mimmo,4.5,Italien,                1200 Woluwe-Saint-Lambert ,80,Not Available
+Signora Ava,4,Méditerranéen,                1000 Bruxelles,26,Not Available
+La Truffe Noire,4,Français,                1000 Bruxelles,Not Available,Not Available
+Il Classico,3.5,Italien,                1050 Ixelles ,18,Not Available
+Les Pecheries,3.5,Belge,               1170 Watermael-Boitsfort ,45,Not Available
+San Daniele,4.5,Italien,                1083 Ganshoren ,100,Not Available
+Royal Food,4.5,Du Monde,                1180 Uccle ,16,Not Available
+"Chez Hassan, Uccle",4.5,Marocain,                1180 Uccle ,20,Not Available
+Stirwen,4.5,Français,                1040 Etterbeek ,52,Not Available
+King Pizza Kebab et Grill,3.5,Français,                1000 Bruxelles,7,Not Available
+Les Menus Plaisirs,3.5,Français,                1180 Uccle ,Not Available,Not Available
+Coin De Mer,3.5,Belge,                1000 Bruxelles,Not Available,Not Available
+Le Saint Georges,3.5,Français,                1030 Schaerbeek ,36,Not Available
+Nonbe Daigaku,4.5,Japonais,                1050 Ixelles ,24,Not Available
+La Porte Des Indes,4.5,Indien,                1050 Ixelles ,33,Not Available
+Samourai,4,Japonais,                1000 Bruxelles,Not Available,Not Available
+Switch,4,Français,                1000 Bruxelles,Not Available,Not Available
+Belle De Jour,5,Japonais,                1050 Ixelles ,15,Not Available
+Maison Du Luxembourg,4,Belge,                1050 Ixelles ,Not Available,Not Available
+JB,4.5,Belge,                1000 Bruxelles,50,Not Available
+La Boutique Alimentaire,4.5,Belge,                1000 Bruxelles,Not Available,Not Available
+Greedy Lunch,4.5,Français,                1000 Bruxelles,9,Not Available
+La Nourrice Africaine,4,Africain,                1030 Schaerbeek ,9,Not Available
+The Egg Brussels,4,Européen,                1000 Bruxelles,Not Available,Not Available
+La Mezzanina,4.5,Français,                1180 Uccle ,Not Available,Not Available
+La Homarderie,1.5,Belge,                1000 Bruxelles,69,Not Available
+Ad Hoc,4,Français,                1200 Woluwe-Saint-Lambert ,15,Not Available
+"Orient Kitchen, Evere",4.5,Chinois,                1140 Evere ,9,Not Available
+Pizzeria Da Doto,4.5,Italien,                1180 Uccle ,16,Not Available
+Vintage Hotel Et Wine Bar,4,Français,                1060 Saint-Gilles ,Not Available,Not Available
+Belgobon,4,Belge,                1030 Schaerbeek ,Not Available,Not Available
+Perles d'Asie,3.5,Asiatique,                1070 Anderlecht ,Not Available,Not Available
+Sushi World,2.5,Japonais,                1000 Bruxelles,Not Available,Not Available
+Ex - Porte,4,Méditerranéen,                1000 Bruxelles,Not Available,Not Available
+Lamagno,Not available,Italien,                1200 Woluwe-Saint-Lambert ,Not Available,Not Available
+Ici,4,Français,                1050 Ixelles ,Not Available,Not Available
+La Brouette,3.5,Français,                1000 Bruxelles,35,Not Available
+La Brouette,4.5,Français,                1070 Anderlecht ,47,Not Available
+Scott's Cafe-bar,4,Français,                1000 Bruxelles,15,Not Available
+Tarte et quiche,Not available,Belge,                1090 Jette ,9,Not Available
+Taste Of Taj Mahal,4,Indien,                1050 Ixelles ,Not Available,Not Available
+L'eau à la Babouche,4.5,Marocain,                1170 Watermael-Boitsfort ,Not Available,Not Available
+Les P'Tits Os Du Pitta-grill,4.5,Grec,                1140 Evere ,17,Not Available
+Callens Café,4,Belge,                1050 Bruxelles,36,Not Available
+La Bonne du Curé,3,Belge,                1000 Bruxelles,9,Not Available
+Red Monkey,3.5,Français,                1050 Bruxelles,15,Not Available
+Shinwi,3,Asiatique,                1000 Bruxelles,15,Not Available
+La Bamoise,Not available,Belge,                1060 Saint-Gilles ,Not Available,Not Available
+"Orient Kitchen, Schaerbeek",2.5,Asiatique,                1030 Schaerbeek ,9,Not Available
+Saveurs Du Liban,4,Libanais,                1050 Ixelles ,55,Not Available
+Ispahan Original,4,Iranien,                1180 Uccle ,45,Not Available
+Au Palais Des Indes,3,Indien,                1050 Ixelles ,30,Not Available
+Le Faucon - Den Valck,3,Français,                1000 Bruxelles,15,Not Available
+La Boule Rouge,4.5,Belge,                1000 Bruxelles,15,Not Available
+Les Cyclades,3.5,Grec,                1120 Neder-over-Heembeek ,16,Not Available
+Les Marmites Du Monde,4,Belge,                1050 Ixelles ,16,Not Available
+Pizza Oliva,2.5,Italien,                1170 Watermael-Boitsfort ,Not Available,Not Available
+Break De l'Abbaye,3.5,Belge,                1050 Ixelles ,15,Not Available
+Theatre Le Fou Rire,4.5,Français,                1070 Anderlecht ,Not Available,Not Available
+Le Meyboom,4,Italien,                1000 Bruxelles,Not Available,Not Available
+Adventure Valley,3,Asiatique,                1200 Woluwe-Saint-Lambert ,Not Available,Not Available
+Au Sucre Salé,3,Français,                1090 Jette ,15,Not Available
+Saint-Boniface,4,Français,                1050 Ixelles ,33,Not Available
+2due,4.5,Italien,                1000 Bruxelles,15,Not Available
+Little Bamboo,5,Asiatique,                1160 Auderghem ,Not Available,Not Available
+L'Eau Chaude,4,Français,                1000 Bruxelles,15,Not Available
+Nona,4,Italien,                1000 Bruxelles,15,Not Available
+Au fond,4,Belge,                1000 Bruxelles,Not Available,Not Available
+Osteria Agricola Toscana,4,Italien,                1000 Bruxelles,30,Not Available
+Le Jardin d'Erasme,3,Français,                1070 Anderlecht ,15,Not Available
+Le Croque En Ville,5,Belge,                1000 Bruxelles,11,Not Available
+Di Tommaso,4.5,Italien,                1000 Bruxelles,15,Not Available
+Stanley Grill,4,Français,                1000 Bruxelles,30,Not Available
+Le Selecto,4,Français,               1000 Bruxelles,48,Not Available
+Mcdonald's,3,Américain,                1180 Uccle ,Not Available,Not Available
+Le Lombard,3.5,Belge,                1000 Bruxelles,16,Not Available
+Icônes,3.5,Belge,                1000 Bruxelles,25,Not Available
+New Saigon Bangkok,3.5,Asiatique,                1210 Saint-Josse-ten-Noode ,15,Not Available
+Mcdonald's,3.5,Américain,                1000 Bruxelles,Not Available,Not Available
+Restobières,4.5,Belge,                1000 Bruxelles,16,Not Available
+Chez Jacques,4,Français,                1000 Bruxelles,86,Not Available
+Star Of India,4,Indien,                1210 Saint-Josse-ten-Noode ,22,Not Available
+Spirito,3,Français,                1050 Bruxelles,Not Available,Not Available
+Louise Barocco Wine Bar,3.5,Italien,                1050 Bruxelles,15,Not Available
+"La Marchigiana, Schaerbeek",4.5,Italien,                1030 Schaerbeek ,16,Not Available
+Les Memoires De Gretry,2.5,Français,                1000 Bruxelles,15,Not Available
+Le Nenuphar,4,Vietnamien,                1200 Woluwe-Saint-Lambert ,87,Not Available
+Les Fils à Papa,4,Français,                1180 Uccle ,21,Not Available
+La Baraka,3.5,Français,                1000 Bruxelles,9,Not Available
+Le Patio d'Eté,4,Belge,                1050 Ixelles ,30,Not Available
+Brussels Burgers,Not available,Français,                1000 Bruxelles,Not Available,Not Available
+La Terrasse,3.5,Belge,                1040 Etterbeek ,Not Available,Not Available
+Art's & Bagels,4,Français,                1040 Bruxelles,7,Not Available
+So Tasty,3,Français,                1000 Bruxelles,Not Available,Not Available
+La Figoule,2.5,Français,                1050 Bruxelles,15,Not Available
+Van Guils - Fine Food,5,Français,                1050 Ixelles ,15,Not Available
+Quartier Luxe,Not available,Européen,                1050 Ixelles ,Not Available,Not Available
+Vini Divini,4.5,Italien,                1050 Ixelles ,15,Not Available
+Van Deuren Nadine,Not available,Belge,                1000 Bruxelles,Not Available,Not Available
+Fleur De Lotus,Not available,Asiatique,                1050 Ixelles ,Not Available,Not Available
+Sushi's Belliard,3.5,Français,                1040 Etterbeek ,15,Not Available
+Atelier Des Pates,4,Italien,                1000 Bruxelles,32,Not Available
+Beijingya,4,Asiatique,                1000 Bruxelles,19,Not Available
+Mitsui,3.5,Japonais,                1050 Ixelles ,30,Not Available
+Lunch Garden,2.5,Européen,                1160 Auderghem ,16,Not Available
+Bs In Town,4,Belge,                1050 Ixelles ,Not Available,Not Available
+Le Vietnam,Not available,Vietnamien,                1000 Bruxelles,Not Available,Not Available
+Glory S,4.5,Français,                1200 Woluwe-Saint-Lambert ,Not Available,Not Available
+Bota Café,3,Italien,                1210 Saint-Josse-ten-Noode ,16,Not Available
+Hôtel De Ville,4,Belge,                1060 Saint-Gilles ,Not Available,Not Available
+The Twelve,4.5,Européen,                1040 Etterbeek ,50,Not Available
+Greenway Foods,4.5,Français,                1060 Saint-Gilles ,17,Not Available
+The Wine Program,4.5,Belge,                1200 Woluwe-Saint-Lambert ,18,Not Available
+Le Miroir,3,Belge,                1090 Jette ,16,Not Available
+Le Vistro,3.5,Français,                1000 Bruxelles,Not Available,Not Available
+Delice,Not available,Français,                1050 Ixelles ,Not Available,Not Available
+Benkei,4,Français,                1080 Molenbeek-Saint-Jean ,9,Not Available
+Pizza Hut,2.5,Italien,                1000 Bruxelles,9,Not Available
+Le Savarin,2.5,Belge,                1000 Bruxelles,35,Not Available
+Kokuban Schuman,4,Japonais,                1040 Bruxelles,16,Not Available
+Casa Nostra,4,Italien,                1000 Bruxelles,16,Not Available
+La Terrasse,4,Belge,                1000 Bruxelles,Not Available,Not Available
+Caspian,4.5,Français,                1000 Bruxelles,15,Not Available
+La Palette Gourmande,3.5,Français,                1000 Bruxelles,35,Not Available
+Le Déjeuner Sur l'Herbe,4.5,Français,                1210 Saint-Josse-ten-Noode ,33,Not Available
+Saines Saveurs,3.5,Vietnamien,                1200 Woluwe-Saint-Lambert ,15,Not Available
+Biodrome,Not available,Français,                1000 Bruxelles,Not Available,Not Available
+"Quick Quality Burger Restaurant, Woluwe-saint-lambert",2.5,Américain,                 Woluwe-Saint-Lambert ,Not Available,Not Available
+Le Fleur Du Pain,3,Français,                1050 Bruxelles,16,Not Available
+Michael Collins,4,Irlandais,                1000 Bruxelles,Not Available,Not Available
+"King Kong, Saint-gilles",4,Péruvien,                1060 Saint-Gilles ,15,Not Available
+Vieille Bosnie,4.5,Européen,                1030 Schaerbeek ,28,Not Available
+"The Greenpark, Anderlecht",5,Français,                1070 Anderlecht ,16,Not Available
+Cobra Restaurant,2,Italien,                1180 Uccle ,Not Available,Not Available
+Chinoise Riz (ô),3.5,Chinois,                1050 Ixelles ,15,Not Available
+Cappuccino,4,Italien,                1050 Ixelles ,9,Not Available
+L'Olivier De Villarosa,4,Italien,                1090 Jette ,9,Not Available
+Dionita,4.5,Français,                1020 Laeken ,Not Available,Not Available
+Pasta Fina,4.5,Italien,                1070 Anderlecht ,15,Not Available
+Il Pasticcio,4.5,Italien,                1050 Ixelles ,19,Not Available
+Les 2 Petits Diables,4,Italien,                1160 Auderghem ,31,Not Available
+Las Castanuelas,4.5,Espagnol,                1000 Bruxelles,28,Not Available
+Lojadi,Not available,Belge,                1200 Woluwe-Saint-Lambert ,Not Available,Not Available
+Bocconi,4.5,Italien,                1000 Bruxelles,35,Not Available
+Orphyse Chaussette,4.5,Français,                1000 Bruxelles,40,Not Available
