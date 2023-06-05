@@ -33,16 +33,18 @@ This project aims to gather information about restaurants from the "trouvetonres
 The Jupyter Notebook `restaurant_analysis.ipynb` demonstrates the data preprocessing steps, feature engineering, model training, and evaluation. The notebook also includes visualizations of the data distribution, correlations, and predictive performance of the model.
 
 
-## progress  and Limitations
+## Progress and Limitations
 
 We had an issue with retrieving a certain type of data on the website. After a lot of research and analysis of the html structure of the website, we figured there was an anomality in the way the website put those additionnal variables. Therefore we had to limit our webscraping to those variables : Name, Location, cuisine type and rating (and forget about maximum capacity). 
 
 Futhermore, as usual in data webscraping, there was a lot of unavailable values in our retrieved data. In our case, this concerned only some ratings and some average budgets. We made the decision to add these information we were lacking for some restaurants from "tripadvisor.com" in order to have a complete and clean data. The problem was that the rating were Non Avaible for a big part of the restaurants as well as the average budget. After getting a part of the lacking data from tripadvisor (this website isn't any more complete but help), we could attack the modeling part. 
 
-Firstly we had to clean all the non avaible and empty data
+Firstly we had to clean all the non avaible and empty data. Then, prepare the train and test data. We had a problem with the numerical data that were considered as an object and not float64 data. We tried to fix it and right after standardize (0 mean and unit variance) the numerical value andperform one-hot encoding on the 'Type' and 'Address' columns. We decided to go for a linear model and decision tree model (does not required linearity assumptions).
 
 
 ## Results
+
+That is the tricky part here. We succeded to make the models but the results are quite strange. we wanted to check the MSE, the MAE, the R-Squared and the adjusted R-Squared. The MSE value is 0.4464912499771423, indicating that, on average, the squared difference between the predicted and actual values is relatively low (wich is pretty good) but the mae is higher (0.5000177500168457). Depending on the specific dataset and the distribution of errors, there can be situations where the squared errors in MSE are relatively smaller compared to the absolute errors in MAE. Plus,the R2 value is -0.05459258622687391, indicating that the model explains a small proportion of the variance and performs poorly in capturing the relationships between the features and the target. That indicates that the model fails to capture efficienly the relationships between the data. We thought about what could inhance our metrics and come to several ideas. Firstly we discussed the 
 
 ## Deployed Application
 
