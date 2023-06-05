@@ -19,7 +19,7 @@ To build and run this project, please follow these steps:
 
 5. Futhermore, we had to do a lot of data cleaning (This is explained in the Limitations part). That is why you will need to download the csv file in github named "DataRestaurants.csv".
 
-6. Once you have the correct csv file, you can proceed to the machine learning model.
+6. Once you have the correct csv file, you can proceed to the machine learning models (there are a linear one and a decision tree).
 
 - Open the Jupyter Notebook `restaurant_analysis.ipynb`.
 - Follow the instructions and run the code cells to preprocess the data, build the machine learning model, and analyze the results.
@@ -28,15 +28,21 @@ To build and run this project, please follow these steps:
 
 ## Description
 
-This project aims to gather information about restaurants from the "trouvetonresto.be/restaurants/Bruxelles" website and perform analysis using a machine learning model. The web scraping script collects data such as restaurant names, locations, ratings, average budgets and cuisine types. The collected data is gathered in a csv file and is then used to train a machine learning model that can predict the rating of a restaurant based on various features. 
+This project aims to gather information about restaurants from the "trouvetonresto.be/restaurants/Bruxelles" website and perform analysis using a machine learning model. The web scraping script collects data such as restaurant names, locations, ratings, average budgets, maximum capacity and cuisine types. The collected data is gathered in a csv file and is then used to train a machine learning model that can predict the rating of a restaurant based on various features. 
 
 The Jupyter Notebook `restaurant_analysis.ipynb` demonstrates the data preprocessing steps, feature engineering, model training, and evaluation. The notebook also includes visualizations of the data distribution, correlations, and predictive performance of the model.
 
 
-## Limitations 
+## progress  and Limitations
 
-We had an issue with retrieving a certain type of data on the website. After a lot of research and analysis of the html structure of the website, we figured there was an anomality in the way the website put those additionnal variables. Therefore we had to limit our webscraping to those variables : Name, Location, cuisine type and rating. 
-Futhermore, as usual in data webscraping, there was a lot of unavailable values in our retrieved data. In our case, this concerned only some ratings and some average budgets. We made the decision to add these information we were lacking for some restaurants from "tripadvisor.com" in order to have a complete and clean data. 
+We had an issue with retrieving a certain type of data on the website. After a lot of research and analysis of the html structure of the website, we figured there was an anomality in the way the website put those additionnal variables. Therefore we had to limit our webscraping to those variables : Name, Location, cuisine type and rating (and forget about maximum capacity). 
+
+Futhermore, as usual in data webscraping, there was a lot of unavailable values in our retrieved data. In our case, this concerned only some ratings and some average budgets. We made the decision to add these information we were lacking for some restaurants from "tripadvisor.com" in order to have a complete and clean data. The problem was that the rating were Non Avaible for a big part of the restaurants as well as the average budget. After getting a part of the lacking data from tripadvisor (this website isn't any more complete but help), we could attack the modeling part. 
+
+Firstly we had to clean all the non avaible and empty data
+
+
+## Results
 
 ## Deployed Application
 
