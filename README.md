@@ -25,7 +25,7 @@ To build and run this project, please follow these steps:
 - Open the Jupyter Notebook `linearmodel.ipynb` and 'decisiontreemodel.ipynb'.
 - Follow the instructions and run the code cells to preprocess the data, build the machine learning model, and analyze the results.
 
-7. After running the notebooks, you will find the generated visualizations in the output cells. These visualizations include bar charts, scatter plots, and heatmaps to provide insights into the restaurant data. For the Data Visualization, we decided to show the impact of two important variables on the average rating. These variables are: the average budget and the type of cuisine the restaurant offers. Thanks to these graphs, we could see that restaurants with an average budget on the expensive side have a higher rating and restaurants porposing cuisine of the world or romanian cuisine are more likely to be rated better than those with another type of cuisine.
+7. After running the notebooks, you will find the generated visualizations in the output cells. These visualizations include bar charts, scatter plots, and heatmaps to provide insights into the restaurant data. For the Data Visualization, we decided to show the impact of two important variables on the average rating. These variables are: the average budget and the type of cuisine the restaurant offers. Thanks to these graphs, we could see that restaurants with an average budget on the expensive side have a higher rating and restaurants porposing cuisine of the world are more likely to be rated better than those with another type of cuisine.
 
 ## Description
 
