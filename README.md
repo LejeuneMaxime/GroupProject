@@ -28,9 +28,8 @@ To build and run this project, please follow these steps:
 
 ## Description
 
-This project aims to gather information about restaurants from the "trouvetonresto.be/restaurants/Bruxelles" website and perform analysis using a machine learning model. The web scraping script collects data such as restaurant names, locations, ratings, average budgets, maximum capacity and cuisine types. The collected data is gathered in a csv file and is then used to train a machine learning model that can predict the rating of a restaurant based on various features. 
-
-The Jupyter Notebooks `linearmodèle (1).ipynb` and 'decisiontreemodel (1).ipynb' demonstrate the data preprocessing steps, feature engineering, model training, and evaluation. The notebook also includes visualizations of the data distribution, correlations, and predictive performance of the model.
+This project aims to gather information about restaurants from the "trouvetonresto.be/restaurants/Bruxelles" website and perform analysis using a machine learning model. The web scraping script 'ProjectWebscraping.ipynb' collects data such as restaurant names, locations, ratings, average budgets and cuisine types. 
+The collected data is gathered in a csv file and is then used to train a machine learning model in another Jupyter Notebook that can predict the rating of a restaurant based on various features. The Jupyter Notebooks `linearmodèle (1).ipynb` and 'decisiontreemodel (1).ipynb' demonstrate the data preprocessing steps, feature engineering, model training, and evaluation. The notebook also includes visualizations of the data distribution, correlations, and predictive performance of the model.
 
 
 ## Progress and Limitations
